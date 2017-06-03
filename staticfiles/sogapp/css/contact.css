@@ -1,6 +1,4 @@
-html{
-	background: blue;
-}
+
 
 .contact{
   background-color: blue;
@@ -22,3 +20,17 @@ html{
 h1, h2, h3, h4{
   font-family: 'Abel', sans-serif;
 }
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #8a8181;
+    color: black;
+}
+
+element.style {
+    color: #e01c1c;
+    text-align: justify;
+}
+
