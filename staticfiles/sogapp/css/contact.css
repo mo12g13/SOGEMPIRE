@@ -1,0 +1,24 @@
+html{
+	background: blue;
+}
+
+.contact{
+  background-color: blue;
+}
+
+.map{
+  height: 350px;
+  width: 100
+
+}
+
+.intro-block{
+  background: url("http://res.cloudinary.com/dypjectne/image/upload/v1495940270/purpattern_xtn66w.png");
+  padding: 100px 0 ;
+  color: #fff;
+
+}
+
+h1, h2, h3, h4{
+  font-family: 'Abel', sans-serif;
+}
