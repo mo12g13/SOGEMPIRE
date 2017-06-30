@@ -1,5 +1,8 @@
 # SOGEMPIRE
 # This website was done in django python framework. I am still working on it. It hasn't been fully completed.
+
+## Website url http://www.sogrecordsempire.com/
+## Heroku url https://sogrecordsempire.herokuapp.com/
 ### Home page
 ![image](https://user-images.githubusercontent.com/17325437/27746234-06406784-5d8c-11e7-8865-5754e9c047f4.png)
 
