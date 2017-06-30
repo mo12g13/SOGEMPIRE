@@ -3,7 +3,7 @@
 
 ## Website url http://www.sogrecordsempire.com/
 ## Heroku url https://sogrecordsempire.herokuapp.com/
-## update code can be found here https://github.com/momojohnson/sog_records_empire/tree/master/sogapp
+## updated code can be found here https://github.com/momojohnson/sog_records_empire/tree/master/sogapp
 ### Home page
 ![image](https://user-images.githubusercontent.com/17325437/27746234-06406784-5d8c-11e7-8865-5754e9c047f4.png)
 
